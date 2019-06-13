@@ -1,4 +1,4 @@
-#OUTPUT BOARD
+#OUTPUT EMPTY BOARD
 def display_board(
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
   puts 'display_board'
